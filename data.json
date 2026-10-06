@@ -1,0 +1,308 @@
+{
+    "HTML": [
+    {
+      "qsn": "What does HTML stand for?",
+      "options": {
+        "a": "Hyper Text Markup Language",
+        "b": "High Text Machine Language",
+        "c": "Hyperlink Text Management Language",
+        "d": "Home Tool Markup Language"
+      },
+      "ans": "a"
+    },
+    {
+      "qsn": "Which tag is used to create a paragraph in HTML?",
+      "options": {
+        "a": "<para>",
+        "b": "<p>",
+        "c": "<paragraph>",
+        "d": "<text>"
+      },
+      "ans": "b"
+    },
+    {
+      "qsn": "Which tag is used to create the largest heading?",
+      "options": {
+        "a": "<h6>",
+        "b": "<heading>",
+        "c": "<h1>",
+        "d": "<head>"
+      },
+      "ans": "c"
+    },
+    {
+      "qsn": "Which tag is used to insert an image in HTML?",
+      "options": {
+        "a": "<image>",
+        "b": "<img>",
+        "c": "<pic>",
+        "d": "<src>"
+      },
+      "ans": "b"
+    },
+    {
+      "qsn": "Which HTML tag is used to create a hyperlink?",
+      "options": {
+        "a": "<link>",
+        "b": "<a>",
+        "c": "<href>",
+        "d": "<url>"
+      },
+      "ans": "b"
+    },
+    {
+      "qsn": "Which tag is used to create an unordered list?",
+      "options": {
+        "a": "<ol>",
+        "b": "<list>",
+        "c": "<ul>",
+        "d": "<li>"
+      },
+      "ans": "c"
+    },
+    {
+      "qsn": "Which tag is used to create a line break?",
+      "options": {
+        "a": "<break>",
+        "b": "<lb>",
+        "c": "<br>",
+        "d": "<line>"
+      },
+      "ans": "c"
+    },
+    {
+      "qsn": "Which attribute specifies the destination of a hyperlink?",
+      "options": {
+        "a": "src",
+        "b": "href",
+        "c": "link",
+        "d": "url"
+      },
+      "ans": "b"
+    },
+    {
+      "qsn": "Which tag is used to create a table row?",
+      "options": {
+        "a": "<td>",
+        "b": "<th>",
+        "c": "<tr>",
+        "d": "<table-row>"
+      },
+      "ans": "c"
+    },
+    {
+      "qsn": "Which HTML tag is used to create a text input field in a form?",
+      "options": {
+        "a": "<input>",
+        "b": "<text>",
+        "c": "<textfield>",
+        "d": "<formtext>"
+      },
+      "ans": "a"
+    }
+        ],
+    "CSS":[
+  {
+    "qsn": "What does CSS stand for?",
+    "options": {
+      "a": "Cascading Style Sheets",
+      "b": "Computer Style Sheets",
+      "c": "Creative Style Sheets",
+      "d": "Colorful Style Sheets"
+    },
+    "ans": "a"
+  },
+  {
+    "qsn": "Which CSS tag is used to link an external CSS file?",
+    "options": {
+      "a": "<css>",
+      "b": "<style>",
+      "c": "<link>",
+      "d": "<stylesheet>"
+    },
+    "ans": "c"
+  },
+  {
+    "qsn": "Which CSS property is used to change the text color?",
+    "options": {
+      "a": "font-color",
+      "b": "text-color",
+      "c": "color",
+      "d": "foreground-color"
+    },
+    "ans": "c"
+  },
+  {
+    "qsn": "Which CSS property is used to change the background color?",
+    "options": {
+      "a": "background-color",
+      "b": "bgcolor",
+      "c": "color-background",
+      "d": "background"
+    },
+    "ans": "a"
+  },
+  {
+    "qsn": "Which CSS property is used to change the font size?",
+    "options": {
+      "a": "text-size",
+      "b": "font-size",
+      "c": "font-height",
+      "d": "text-font"
+    },
+    "ans": "b"
+  },
+  {
+    "qsn": "Which CSS property is used to make text bold?",
+    "options": {
+      "a": "font-style",
+      "b": "text-weight",
+      "c": "font-weight",
+      "d": "bold-text"
+    },
+    "ans": "c"
+  },
+  {
+    "qsn": "Which CSS property is used to align text horizontally?",
+    "options": {
+      "a": "text-align",
+      "b": "align-text",
+      "c": "text-position",
+      "d": "horizontal-align"
+    },
+    "ans": "a"
+  },
+  {
+    "qsn": "Which symbol is used to select an element by its ID in CSS?",
+    "options": {
+      "a": ".",
+      "b": "#",
+      "c": "*",
+      "d": "@"
+    },
+    "ans": "b"
+  },
+  {
+    "qsn": "Which symbol is used to select elements by their class in CSS?",
+    "options": {
+      "a": "#",
+      "b": "*",
+      "c": ".",
+      "d": "&"
+    },
+    "ans": "c"
+  },
+  {
+    "qsn": "Which CSS property is used to add space inside an element?",
+    "options": {
+      "a": "margin",
+      "b": "spacing",
+      "c": "padding",
+      "d": "border-spacing"
+    },
+    "ans": "c"
+  }
+        ],
+    "JS": [
+  {
+    "qsn": "What does JS stand for?",
+    "options": {
+      "a": "JavaScript",
+      "b": "JavaStyle",
+      "c": "JavaSource",
+      "d": "JustScript"
+    },
+    "ans": "a"
+  },
+  {
+    "qsn": "Which keyword is used to declare a variable in JavaScript?",
+    "options": {
+      "a": "var",
+      "b": "int",
+      "c": "string",
+      "d": "define"
+    },
+    "ans": "a"
+  },
+  {
+    "qsn": "Which symbol is used for a single-line comment in JavaScript?",
+    "options": {
+      "a": "/*",
+      "b": "//",
+      "c": "#",
+      "d": "<!--"
+    },
+    "ans": "b"
+  },
+  {
+    "qsn": "Which method is used to print something in the browser console?",
+    "options": {
+      "a": "print()",
+      "b": "console.log()",
+      "c": "display()",
+      "d": "write.log()"
+    },
+    "ans": "b"
+  },
+  {
+    "qsn": "Which keyword is used to define a constant variable?",
+    "options": {
+      "a": "var",
+      "b": "let",
+      "c": "const",
+      "d": "constant"
+    },
+    "ans": "c"
+  },
+  {
+    "qsn": "Which operator is used for strict equality in JavaScript?",
+    "options": {
+      "a": "==",
+      "b": "=",
+      "c": "===",
+      "d": "!="
+    },
+    "ans": "c"
+  },
+  {
+    "qsn": "Which data type is used to store true or false values?",
+    "options": {
+      "a": "String",
+      "b": "Boolean",
+      "c": "Number",
+      "d": "Object"
+    },
+    "ans": "b"
+  },
+  {
+    "qsn": "Which method is used to add an element to the end of an array?",
+    "options": {
+      "a": "push()",
+      "b": "pop()",
+      "c": "shift()",
+      "d": "add()"
+    },
+    "ans": "a"
+  },
+  {
+    "qsn": "Which function is used to convert a string into an integer?",
+    "options": {
+      "a": "NumberString()",
+      "b": "parseInt()",
+      "c": "toInteger()",
+      "d": "parseNumber()"
+    },
+    "ans": "b"
+  },
+  {
+    "qsn": "Which keyword is used to create a function in JavaScript?",
+    "options": {
+      "a": "function",
+      "b": "func",
+      "c": "method",
+      "d": "def"
+    },
+    "ans": "a"
+  }
+        ]
+}
